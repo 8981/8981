@@ -1,5 +1,5 @@
 ### :man_technologist: About Me : 
-I'm Backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Armenia
+I'm Web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Armenia
 - :telescope: I’m working as a Software Engineer and CRM developer and contributing to frontend and backend for building web applications.
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-artem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-prokofiev-2890b9184)
